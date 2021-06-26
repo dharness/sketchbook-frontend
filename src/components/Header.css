@@ -1,0 +1,12 @@
+.sb-header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 1px black;
+    padding: 10px;
+    align-items: center;
+}
+
+.sb-header-button {
+    padding: 10px;
+    margin-left: 10px;
+}
